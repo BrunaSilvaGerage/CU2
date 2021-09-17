@@ -1,6 +1,6 @@
 body
 {
-    background-color:#ffd1fd;
+    background-color:#FFD1DC;
 }
 
 h1 {
@@ -27,12 +27,12 @@ html {
 }
 
 .footer-gray {
-  background-color: #E17F93;
+  background-color: #F4C2C2;
   width: 100%;
 }
 
 .footer-custom {
-  color: ##E17F93;
+  color: #888;
   font: normal normal 12px/1.4 "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   max-width: 1008px;
   box-sizing: border-box;
